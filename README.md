@@ -2,15 +2,15 @@
 The supplemental materials of *"Rationale-aware Label Aggregation in Crowdsourcing"* in CI2025.
 
 # synthetic_data
-filename format:
-redundancy|number of tasks per worker|average accuracy|group ratio|file number
-file content format:
-task, worker, label, rationale, true label
+filename format: <br>
+redundancy|number of tasks per worker|average accuracy|group ratio|file number<br>
+file content format:<br>
+task, worker, label, rationale, true label<br>
 
 
 # RAAG.py
-Our proposed method
-input: .csv
-task, worker, label, rationale, true label
-output:
-estimated labels and accuracy
+Our proposed method<br>
+input: .csv<br>
+task, worker, label, rationale, true label<br>
+output:<br>
+estimated labels and accuracy<br>
